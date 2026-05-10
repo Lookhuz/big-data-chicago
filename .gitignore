@@ -1,0 +1,10 @@
+archive/
+data_parquet/
+models/
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+derby.log
+metastore_db/
